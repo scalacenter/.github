@@ -12,7 +12,7 @@ of our doings on [scala.epfl.ch](https://scala.epfl.ch/).
 
 | Our communication channels                                                                                |
 | ----------------------------------------------------------------------------------------------------------|
-| [Twitter](https://twitter.com/scala): for general announcements about Scala                               |
+| [X](https://x.com/scala_lang): for general announcements about Scala                               |
 | [Discord](https://discord.gg/q8VJD4tCK4): to ask questions and discuss Scala-related topics               |
 | [LinkedIn](https://www.linkedin.com/company/scala-center/): Scala Center happenings                       |
 | [Contributors Forum](https://contributors.scala-lang.org/c/scala-center/25): project roadmaps and updates |
